@@ -1,2 +1,1 @@
-this is master
-message by secondBr
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
