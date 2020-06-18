@@ -1,25 +1,11 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Best Hookup Sites 2020 ᐈ Find Your Sex Partner</title>
-
-        <meta
-          name="description"
-          content="List of The BEST Hookup Sites of [2020] ➡️ Legit And Trusted Hookup Sites That Work ✅ Most Reliable Hookup Sites Reviews ✅ Find a Real Safe Hookup Opportunity For This Night ❤️"
-        />
-        <meta charset="utf-8" />
-        <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="robots" content="index, follow" />
-        <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-
-        <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-
-        {/* <link rel="icon" href="/favicon.ico" /> */}
+        <title>Create Next App</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
@@ -68,7 +54,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
+          Powered by{' '}
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
@@ -219,5 +205,5 @@ export default function Home() {
         }
       `}</style>
     </div>
-  );
+  )
 }
